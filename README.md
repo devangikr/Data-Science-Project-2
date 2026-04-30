@@ -1,6 +1,6 @@
 ## Overview
 This project analyzes global life expectancy using country-level data on economic, environmental, and health factors. We were 
-interested in investigating "
+interested in investigating “What economic, environmental, and health indicators are associated with life expectancy worldwide, and what are their relative effects?”
 The goal is to understand how these variables influence outcomes using machine learning and visualization techniques. 
 
 ## Methods
