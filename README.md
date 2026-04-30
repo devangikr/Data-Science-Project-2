@@ -19,9 +19,10 @@ Injuries (DALYs) show a strong negative relationship with life expectancy.
 Unemployment exhibits a nonlinear, complex effect.
 
 ## Files
-Project-2.ipynb: Analysis file
+Project-2.ipynb: coding file
+Report.pdf: final report with in depth explaination of methods and findings.
 life-exp.csv: life expectancy data file
 gdp.csv: GDP data file
 merged_data.parquet: dataframe life merged data on country exported to parquet
 var_imp_plot.png: variable importance plot of features in random forest
-pdp_feature: partial dependency plots for given feature
+pdp_<feature>: partial dependency plots for given feature
